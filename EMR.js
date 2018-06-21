@@ -1,3 +1,6 @@
+// Gerber Medical Record System
+// Created by Adam Gerber
+
 /* Next features to be added
 -- Add health issues, glucose (be able to add to object on the fly);
 -- Convert height/weight to in/kg
